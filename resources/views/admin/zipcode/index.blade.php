@@ -1,0 +1,1 @@
+resources/views/admin/zipcode/index.blade.php
